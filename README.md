@@ -6,6 +6,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+## 🌐 Demonstração Online
+
+<p align="center">
+  <a href="https://projeto-urna-eletronica-peach.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-VERCEL-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar projeto na Vercel">
+  </a>
+</p>
+
+**[Clique aqui para acessar a Urna Eletrônica](https://projeto-urna-eletronica-peach.vercel.app/)** e testar a aplicação diretamente pelo navegador.
+
 ## 📌 Sobre o Projeto
 
 Simulador interativo de uma **Urna Eletrônica Brasileira**, desenvolvido com **JavaScript puro (Vanilla JS)**, **HTML5** e **CSS3**, inspirado nos desafios práticos da plataforma B7Web.
@@ -77,8 +87,6 @@ projeto-urna-eletronica/
 A simulação utiliza candidatos fictícios para demonstrar o funcionamento das etapas eleitorais.
 
 ### 1ª Etapa — Vereador
-
-<text-placeholder></text-placeholder>
 
 | Número  | Candidato         | Partido |
 | :-----: | :---------------- | :-----: |
